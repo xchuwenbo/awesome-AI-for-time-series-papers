@@ -543,7 +543,8 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Deep Rao-Blackwellised Particle Filters for Time Series Forecasting, NeurIPS'20. [\[paper\]](https://proceedings.neurips.cc/paper/2020/hash/afb0b97df87090596ae7c503f60bb23f-Abstract.html) 
 * Probabilistic Time Series Forecasting with Shape and Temporal Diversity, NeurIPS'20. [\[paper\]](https://arxiv.org/abs/2010.07349) [\[official code\]](https://github.com/vincent-leguen/STRIPE) 
 * Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting, NeurIPS'20. [\[paper\]](https://arxiv.org/abs/2007.02842) [\[official code\]](https://github.com/LeiBAI/AGCRN) 
-* Interpretable Sequence Learning for Covid-19 Forecasting, NeurIPS'20. [\[paper\]](https://arxiv.org/abs/2008.00646) 
+* Interpretable Sequence Learning for Covid-19 Forecasting, NeurIPS'20. [\[paper\]](https://arxiv.org/abs/2006.10255) 
+* Calibrated Reliable Regression using Maximum Mean Discrepancy, NeurIPS'20 
 * Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1907.00235) [\[code\]](https://github.com/mlpotter/Transformer_Time_Series) 
 * Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1905.03806) [\[official code\]](https://github.com/rajatsen91/deepglo) 
 * High-dimensional multivariate forecasting with low-rank Gaussian Copula Processes, NeurIPS'19. [\[paper\]](https://arxiv.org/abs/1910.03002) [\[official code\]](https://github.com/mbohlkeschneider/gluon-ts) 
